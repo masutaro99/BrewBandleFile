@@ -1,0 +1,7 @@
+tap "weaveworks/tap"
+brew "eksctl"
+cask "docker"
+cask "google-chrome"
+cask "google-japanese-ime"
+cask "iterm2"
+cask "visual-studio-code"
